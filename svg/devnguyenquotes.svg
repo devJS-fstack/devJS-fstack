@@ -22,7 +22,7 @@
         .quotes-vi {
           font-size: 18px;
         }
-        .trungquandev-signature {
+        .devnguyen-signature {
           font-size: 16px;
         }
 			</style>
@@ -30,7 +30,7 @@
 			<div class="container">
         <div class="quotes-eng">"𝙊𝙣𝙡𝙮 𝙗𝙤𝙤𝙠𝙨 𝙘𝙖𝙣 𝙩𝙚𝙡𝙡 𝙪𝙨 𝙩𝙧𝙪𝙩𝙝, 𝙥𝙚𝙧𝙛𝙚𝙘𝙩 𝙗𝙚𝙖𝙪𝙩𝙮, 𝙖𝙣𝙙 𝙡𝙤𝙫𝙚."</div>
         <div class="quotes-vi">"Chỉ có những quyển sách mới có thể cho chúng ta biết về sự thật, cái đẹp hoàn mỹ và tình yêu"</div>
-        <div class="trungquandev-signature">-Dev Nguyen-</div>
+        <div class="devnguyen-signature">-Dev Nguyen-</div>
       </div>
 		</div>
 	</foreignObject>

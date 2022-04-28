@@ -48,6 +48,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Passport-282C34?logo=passport&logoColor=FFC801" alt="passport" title="Passport NPM" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Heroku-282C34?logo=heroku&logoColor=430098" alt="Heroku" title="Heroku" height="25" /></span>
+&nbsp;
 
 <br>
 
@@ -79,7 +81,7 @@
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="devnguyen-instagram" />
   </a>
   <a href="mailto:vantinhnguyen728@gmail.com" target="top">
-    <img src="https://img.icons8.com/stickers/344/gmail-new.png" alt="devnguyen-email" />
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="devnguyen-email" />
   </a>
 </div>
 
