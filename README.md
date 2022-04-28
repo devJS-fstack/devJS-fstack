@@ -32,6 +32,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=007396" alt="Java" title="Java" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/CPlusPlus-282C34?logo=cplusplus&logoColor=77216F" alt="C++" title="C++" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/CSharp-282C34?logo=csharp&logoColor=239120" alt="CSharp" title="C Sharp" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" alt="Python" title="Python" height="25" /></span>
@@ -39,6 +41,12 @@
 <span><img src="https://img.shields.io/badge/JSONWebTokens-282C34?logo=jsonwebtokens&logoColor=5C3EE8" alt="JSONWebTokens" title="JSON Web Tokens" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Adobe-282C34?logo=adobe&logoColor=FF0000" alt="Adobe" title="Adobe" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Adobe-282C34?logo=adobe&logoColor=FF0000" alt="Adobe" title="Adobe" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/npm-282C34?logo=npm&logoColor=CB3837" alt="Npm" title="Node Package Manager" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Passport-282C34?logo=passport&logoColor=FFC801" alt="passport" title="Passport NPM" height="25" /></span>
 &nbsp;
 
 <br>
@@ -61,23 +69,17 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://trungquandev.com" target="blank">
-    <img width="90" height="90" src="images/logo-trungquandev-transparent-bg-192x192.png" alt="trungquandev-blog" />
+  <a href="https://www.facebook.com/devnguyen175" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="devnguyen-facebook" />
   </a>
-  <a href="https://facebook.com/trungquandev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
+  <a href="https://www.linkedin.com/in/v%C4%83n-t%C3%ACnh-nguy%E1%BB%85n-27b99a236/" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="devnguyen-linkedin" />
   </a>
-  <a href="https://www.youtube.com/c/TrungquandevOfficial" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="trungquandev-youtube" />
+  <a href="https://instagram.com/dev175_js" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="devnguyen-instagram" />
   </a>
-  <a href="https://www.linkedin.com/in/trungquandev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="trungquandev-linkedin" />
-  </a>
-  <a href="https://instagram.com/trungquandev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="trungquandev-instagram" />
-  </a>
-  <a href="mailto:trungquandev.official@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
+  <a href="mailto:vantinhnguyen728@gmail.com" target="top">
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="devnguyen-email" />
   </a>
 </div>
 
