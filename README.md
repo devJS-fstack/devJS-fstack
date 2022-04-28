@@ -79,7 +79,7 @@
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="devnguyen-instagram" />
   </a>
   <a href="mailto:vantinhnguyen728@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="devnguyen-email" />
+    <img src="https://img.icons8.com/stickers/344/gmail-new.png" alt="devnguyen-email" />
   </a>
 </div>
 
