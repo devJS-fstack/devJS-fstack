@@ -48,7 +48,7 @@
                     -45px -45px 25px RGBA(0,0,0, 0.5) inset, 
                     25px 25px 45px RGBA(0,0,0, 0.45) inset;
           position: absolute;
-          top: 70%;
+          top: 60%;
           left: 80%;
           transform: translate(-50%, -50%) rotateX(5deg) rotateY(5deg) rotateZ(5deg);
         }
@@ -87,22 +87,22 @@
         .icon-first{
           position:relative;
           left:815px;
-          top:-100px  
+          top:-180px  
         }
         .icon-second{
           position:relative;
-          left:905px;
-          top:60px;
+          left:900px;
+          top:-20px;
         }
         .icon-third{
           position:relative;
           left:470px;
-          top:60px;
+          top:-20px;
         }
         .icon-sixth{
           position:relative;
           left:565px;
-          top:240px;
+          top:170px;
         }
         
 			</style>
