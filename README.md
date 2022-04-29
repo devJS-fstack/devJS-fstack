@@ -42,8 +42,6 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Adobe-282C34?logo=adobe&logoColor=FF0000" alt="Adobe" title="Adobe" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Adobe-282C34?logo=adobe&logoColor=FF0000" alt="Adobe" title="Adobe" height="25" /></span>
-&nbsp;
 <span><img src="https://img.shields.io/badge/npm-282C34?logo=npm&logoColor=CB3837" alt="Npm" title="Node Package Manager" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Passport-282C34?logo=passport&logoColor=FFC801" alt="passport" title="Passport NPM" height="25" /></span>
