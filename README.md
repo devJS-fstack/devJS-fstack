@@ -27,6 +27,10 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Post%20Man-282C34?logo=postman&logoColor=FF6C37" alt="Post Man" title="Post Man" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/NestJs-282C34?logo=nestjs&logoColor=E0234E" alt="Nest JS" title="NestJs" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=C21325" alt="Jest" title="Jest" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
