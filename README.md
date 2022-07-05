@@ -19,6 +19,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/AWS%20Lambda-282C34?logo=awslambda&logoColor=FF9900" alt="AWS Lambda logo" title="AWS Lambda" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Amazon%20AWS-282C34?logo=amazonaws&logoColor=FF5D01" alt="AWS Amazon logo" title="AWS Web Service" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
