@@ -23,6 +23,10 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/AWS%20S3-282C34?logo=amazons3&logoColor=#569A31" alt="AWS Amazon S3" title="AWS S3" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Amazon%20EC2-282C34?logo=amazonec2&logoColor=FF9900" alt="AWS EC2" title="Amazon EC2" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Post%20Man-282C34?logo=postman&logoColor=FF6C37" alt="Post Man" title="Post Man" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
